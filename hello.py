@@ -1,9 +1,9 @@
 
-print("أهلاً بك في عالم البرمجة!")
-print("هذا أول برنامج لي بايثون 🎉")
+print("Welcome to Programming!")
+print("This is my first Python program! 🎉")
 
-اسمي = "صهيب"
-print(f"أنا {اسمي} أتعلم البرمجة!")
+my_name = "Sohaib"
+print(f"I am {my_name} and I am learning Python!")
 
-حساب_المجموع = 5 + 3
-print(f"5 + 3 = {حساب_المجموع}")
+sum_result = 5 + 3
+print(f"5 + 3 = {sum_result}")
